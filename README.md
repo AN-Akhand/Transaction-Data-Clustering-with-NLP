@@ -3,7 +3,7 @@
 Running test script
 
 kmeans.model and vect_model.model must be in same directory as test.py
-Install requrements from requrements.txt by running 
+Install reqiurements from requrements.txt by running 
 pip install -r requirements.txt
 
 
